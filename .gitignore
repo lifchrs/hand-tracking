@@ -1,0 +1,4 @@
+videos/*
+processed_videos/*
+mano_data/MANO_RIGHT.pkl
+pretrained_models/*
